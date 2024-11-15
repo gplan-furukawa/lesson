@@ -3,6 +3,8 @@
 
 # memo
 特に断りがない限り、ターミナルにはbashを使用します
+参考
+https://zenn.dev/praha/articles/db1c4bcc4ef48c
 
 ## まずClone
 ```
