@@ -70,3 +70,9 @@ cf) VSCodeでは以下をプラグインなしでできます
 ## 入れとくと便利なVSCodeプラグイン
 * Git Lens https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 * Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+* ## よく使うコマンド
+* `git log` コミットログを表示 `--oneline` オプションをつけると1行表示
+* `git log --grep="キーワード"` コミットメッセージのキーワード検索
+* `git diff コミットハッシュA コミットハッシュB` AとBの差分表示。`--oneline` オプションをつけると一行表示
+* `git stash`、`git stash pop` コミットしてない変更を一時退避＆戻す
